@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "baseUrl": "http://xmuoj.com",
+  "problemId": 11,
+  "contestId": null,
+  "contestTitle": null,
+  "displayId": "GW001",
+  "title": "输出第二个整数",
+  "language": "C++",
+  "sourceFile": "main.cpp",
+  "sourceFiles": {
+    "C++": "main.cpp"
+  },
+  "createdAt": "2026-08-25T09:39:38.448Z"
+}
